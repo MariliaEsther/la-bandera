@@ -1,0 +1,12 @@
+body {
+	margin:0;
+}
+.box{
+	height: 100px;
+}
+.amarillo{
+	background-color: yellow;
+}
+.es{
+	background-color: red;
+}
